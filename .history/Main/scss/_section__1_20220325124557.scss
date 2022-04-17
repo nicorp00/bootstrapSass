@@ -1,0 +1,29 @@
+.section__1{
+    .card-body{
+        margin-left: 20%;
+        margin-top: -15%;
+
+        img{
+            margin-top: -20%;
+            margin-left: 60%;
+        }
+
+        .btn{
+            margin-left: -70%;
+        }
+
+    }
+}
+
+@media screen and(max-width: 768px) {
+   .section__1{
+       .tab-content{
+           margin-bottom: -20%;
+       }
+
+       .btn{
+           margin-right: -70%;
+       }
+   }
+    
+}

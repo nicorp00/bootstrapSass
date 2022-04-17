@@ -1,0 +1,21 @@
+.section__top{
+    span{
+        margin-left: 20%;
+    }
+    form{
+        color: white;
+    }
+    button{
+        background-color: white;
+        font-size: 100%;
+    }
+}
+
+@media screen and(max-width:768px) {
+    .section__top{
+        .card-body{
+            margin-top: 30%;
+        }
+    }
+    
+}

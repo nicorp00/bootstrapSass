@@ -1,0 +1,49 @@
+.section__top span {
+  margin-left: 20%;
+}
+.section__top form {
+  color: white;
+}
+.section__top button {
+  background-color: white;
+  font-size: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .section__top .card-body {
+    margin-top: 30%;
+  }
+}
+.section__nav {
+  background-color: grey;
+}
+.section__nav .nav-item {
+  color: white;
+}
+
+.section__1 .card-body {
+  margin-left: 20%;
+  margin-top: -15%;
+}
+.section__1 .card-body img {
+  margin-top: -20%;
+  margin-left: 60%;
+}
+.section__1 .card-body .btn {
+  margin-left: -70%;
+}
+
+@media screen and (max-width: 768px) {
+  .section__1 .tab-content {
+    margin-top: -15%;
+  }
+  .section__1 .btn {
+    margin-right: -70%;
+  }
+}
+.section__2 .card {
+  margin-inline-start: 5%;
+  margin-top: 5%;
+}
+
+/*# sourceMappingURL=style.css.map */

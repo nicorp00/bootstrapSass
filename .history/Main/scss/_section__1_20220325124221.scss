@@ -1,0 +1,28 @@
+.section__1{
+    .card-body{
+        margin-left: 20%;
+        margin-top: -10%;
+
+        img{
+            margin-top: -20%;
+            margin-left: 60%;
+        }
+
+        .btn{
+            margin-left: -15%;
+        }
+
+    }
+}
+
+@media screen and(max-width: 768px) {
+    @media screen and(max-width:768px) {
+        .section__top{
+            .tab-pane{
+                margin-top: -30%;
+            }
+        }
+        
+    }
+    
+}
